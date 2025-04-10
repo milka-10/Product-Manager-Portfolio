@@ -1,2 +1,2 @@
-# Product-Manager-Portfolio
-A showcase of my work and contributions in products development
+pm-portfolio-milka
+A portfolio showcasing my experience building end-to-end ordering systems: POS, Kiosk, and Online Ordering.
